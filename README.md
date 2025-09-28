@@ -1,2 +1,12 @@
 # Connect-hub-smart-event-grouping-system
-This Python Event Management System manages people and events with options to add, update, delete, and view details. It applies rules like gender, age limits, and capacity for joining events. The system also shows statistics such as total people, known vs unknown individuals, and active events.  
+A simple command-line Event Management System built with Python using Object-Oriented Programming (OOP). This tool allows users to:
+
+Add, update, and manage people
+
+Create and manage events with optional age, gender, and member limit restrictions
+
+Allow people to join or leave events
+
+View system statistics (e.g. total users, known vs unknown, events)
+
+All data is stored in-memory, and the interface is fully menu-driven, making it easy to test and use without external dependencies.
